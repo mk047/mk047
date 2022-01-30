@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Page Title</title>
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+</head>
+<body>
+	<style>
+		body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: chiller;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+	</style>
+
+<h1>mk047 respiratory</h1>
+<p>We code for life.</p>
+<p>let's build a click button</p>
+
+<button type="button" onclick="click">date</button>
+
+</body>
+</html>
